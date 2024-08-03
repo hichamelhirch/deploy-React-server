@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "youtube-dl-exec": "^2.4.0-beta.0"
+    "youtube-dl-exec": "^2.4.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
